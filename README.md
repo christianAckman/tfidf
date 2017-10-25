@@ -1,2 +1,2 @@
 # tfidf
-Finding tf-idf scores with python
+* Calculating tf-idf scores
